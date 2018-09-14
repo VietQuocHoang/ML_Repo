@@ -3,3 +3,5 @@ matplotlib
 sklearn
 scipy
 pandas
+tensorflow==1.9.0
+keras
